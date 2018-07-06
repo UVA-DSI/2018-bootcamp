@@ -53,6 +53,8 @@
 ## Lunch Break
 
 ### GitHub
+* [Motivating Example](no_vc.png)
+* [Command Line Git](git_commands.png)
 
 ### Helpful Links
 * [UVA Physics Computer Facilites Reference](http://galileo.phys.virginia.edu/compfac/courses/)
