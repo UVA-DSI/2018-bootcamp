@@ -20,7 +20,8 @@
     * Project X
 
 ### Operating System 101
-* Computer Hardware Architecture [Diagram](https://github.com/UVA-DSI/2018-bootcamp/blob/master/intro-general-tools/Screen%20Shot%202018-07-06%20at%201.46.54%20PM.png)
+* Computer Hardware Architecture [Diagram](https://github.com/UVA-DSI/2018-bootcamp/blob/master/intro-general-tools/computer_hardware_diagram.png)
+* Motherboard [Image](https://github.com/UVA-DSI/2018-bootcamp/blob/master/intro-general-tools/motherboard.jpg)
 
 ### Helpful Links
 * [UVA Physics Computer Facilites Reference](http://galileo.phys.virginia.edu/compfac/courses/)
