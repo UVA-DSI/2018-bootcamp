@@ -58,6 +58,13 @@
 * [Motivating Example](no_vc.png)
 * [Command Line Git](git_commands.png)
 * [GitHub Terms](github_terms.png)
+* Create Accounts - remember this is public and professional
+* Create Repositories
+* Readme.md (editing in web interface)
+* Forking a repo
+* Pull requests
+* Organizations and Capstone Repositories
+
 
 ## Computer Trouble Shooting Time
 
