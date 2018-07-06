@@ -62,4 +62,4 @@
 * [Git Homepage](https://git-scm.com/)
 * [GitHub Homepage](https://github.com/)
 * [Bash Cheat Sheet](https://devhints.io/bash)
-
+* [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
