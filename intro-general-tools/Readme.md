@@ -59,4 +59,5 @@
 * [Data Science Fundamental References](https://github.com/alonzi/fundamentals)
 * [Git Homepage](https://git-scm.com/)
 * [GitHub Homepage](https://github.com/)
+* [Bash Cheat Sheet](https://devhints.io/bash)
 
