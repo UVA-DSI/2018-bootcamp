@@ -6,3 +6,4 @@
 * SOMRC: School of Medicine Research Computing
 * CLI: Command Line Interface
 * GUI: Graphical User Interface
+* BASH: Bourne Again Shell
