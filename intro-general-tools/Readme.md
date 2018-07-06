@@ -4,8 +4,12 @@
 * Day 3: Python3
 * Day 4: Text Editiors, Word Processors, and IDEs (plus wrap up) (half day)
 
+### Introductions
+* Introduce DSI staff in the room
+* Lots of students: [Student Profiles](https://dsi.virginia.edu/people/students)
 
-
+### Computing at UVA
+* Open Data Lab: [Diagram](bit.ly/UVA-DSI-ODL)
 
 ### Helpful Links
 * [UVA Physics Computer Facilites Reference](http://galileo.phys.virginia.edu/compfac/courses/)
