@@ -30,9 +30,17 @@
   * However each is different. So we'll use a common solution.
 * Bourne Again Shell (BASH): [Installation Instructions for Windows and Mac](getting_bash.pdf)
 
+### BASH and CLI
+
+### Secure Shell (SSH): Remote Connection
+
+### Cygwin/Putty
+
+### Lunch Break
+
+## GitHub
+
 ### Helpful Links
 * [UVA Physics Computer Facilites Reference](http://galileo.phys.virginia.edu/compfac/courses/)
 * [Data Science Fundamental References](https://github.com/alonzi/fundamentals)
 
-
-Linux, CLI, Bash, SSH, Cygwin, GitHub
