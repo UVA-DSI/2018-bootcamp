@@ -31,8 +31,21 @@
 * Bourne Again Shell (BASH): [Installation Instructions for Windows and Mac](getting_bash.pdf)
 
 ### BASH and CLI
+* [Basic Commands](basic_commands.png)
+* [ls, cd](ls_explained.png)
+* [working directory concept](current_directory.png)
+* Documentation: [man pages](documentation.png)
+* [Outputs](pipes.png)
+* [startup files](startup_files.png)
+* [shell variables](path_variable.png)
+* Grep, Sed, and AWK
+* [pipes and redirecting errors](redirect_outpu.png)
 
 ### Secure Shell (SSH): Remote Connection
+* ssh
+* scp
+* rsync
+* sftp
 
 ### Cygwin/Putty
 
