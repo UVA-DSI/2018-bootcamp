@@ -10,7 +10,17 @@
 
 ### Computing at UVA
 * Open Data Lab: [Diagram](https://docs.google.com/presentation/d/1r5UxKIqBHzVH0akjXDmcB86u3pWjk4zIbsPCP4twGI4/edit#slide=id.p)
-* Google Docs
+* High Performance Computing (HPC)
+  * Groups
+    * Advanced Research Computing Services [ARCS](https://arcs.virginia.edu/)
+    * School of Medicine Research Computing [SOMRC](https://somrc.virginia.edu/)
+  * Resources
+    * [Rivanna](https://arcs.virginia.edu/rivanna)
+    * [Ivy](https://somrc.virginia.edu/userinfo/ivy/)
+    * Project X
+
+### Operating System 101
+* Computer Hardware Architecture [Diagram](https://github.com/UVA-DSI/2018-bootcamp/blob/master/intro-general-tools/Screen%20Shot%202018-07-06%20at%201.46.54%20PM.png)
 
 ### Helpful Links
 * [UVA Physics Computer Facilites Reference](http://galileo.phys.virginia.edu/compfac/courses/)
