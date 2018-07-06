@@ -9,7 +9,7 @@
 * Lots of students: [Student Profiles](https://dsi.virginia.edu/people/students)
 
 ### Computing at UVA
-* Open Data Lab: [Diagram](bit.ly/UVA-DSI-ODL)
+* Open Data Lab: [Diagram](https://docs.google.com/presentation/d/1r5UxKIqBHzVH0akjXDmcB86u3pWjk4zIbsPCP4twGI4/edit#slide=id.p)
 
 ### Helpful Links
 * [UVA Physics Computer Facilites Reference](http://galileo.phys.virginia.edu/compfac/courses/)
