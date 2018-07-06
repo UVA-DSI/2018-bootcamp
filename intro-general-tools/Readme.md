@@ -57,6 +57,7 @@
 ### GitHub
 * [Motivating Example](no_vc.png)
 * [Command Line Git](git_commands.png)
+* [GitHub Terms](github_terms.png)
 
 ## Computer Trouble Shooting Time
 
