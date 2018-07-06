@@ -19,9 +19,11 @@
     * [Ivy](https://somrc.virginia.edu/userinfo/ivy/)
     * Project X
 
-### Operating System 101
+### Operating System 101: The Link From Hardware to User
 * Computer Hardware Architecture [Diagram](https://github.com/UVA-DSI/2018-bootcamp/blob/master/intro-general-tools/computer_hardware_diagram.png)
 * Motherboard [Image](https://github.com/UVA-DSI/2018-bootcamp/blob/master/intro-general-tools/motherboard.jpg)
+* [Windows History](windows_history.jpg)
+* [Unix History](unix_history.jpg)
 
 ### Helpful Links
 * [UVA Physics Computer Facilites Reference](http://galileo.phys.virginia.edu/compfac/courses/)
