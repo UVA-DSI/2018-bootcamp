@@ -24,6 +24,11 @@
 * Motherboard [Image](https://github.com/UVA-DSI/2018-bootcamp/blob/master/intro-general-tools/motherboard.jpg)
 * [Windows History](windows_history.jpg)
 * [Unix History](unix_history.jpg)
+* [The Shell](shell.png)
+* Graphical User Interface (GUI) vs Command Line Interface (CLI)
+  * Nowadays Windows, Mac, and Linux come with both out of the box
+  * However each is different. So we'll use a common solution.
+* Bourne Again Shell (BASH): [Installation Instructions for Windows and Mac](getting_bash.pdf)
 
 ### Helpful Links
 * [UVA Physics Computer Facilites Reference](http://galileo.phys.virginia.edu/compfac/courses/)
