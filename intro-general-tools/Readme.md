@@ -40,6 +40,7 @@
 * [shell variables](path_variable.png)
 * Grep, Sed, and AWK
 * [pipes and redirecting errors](redirect_outpu.png)
+* Choosing the right [tool](which_tool.png)
 
 ### Secure Shell (SSH): Remote Connection
 * ssh
