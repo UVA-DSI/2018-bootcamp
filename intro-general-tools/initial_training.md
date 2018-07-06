@@ -7,3 +7,5 @@
 * CLI: Command Line Interface
 * GUI: Graphical User Interface
 * BASH: Bourne Again Shell
+* SSH: Secure Shell
+
