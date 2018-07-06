@@ -1,3 +1,5 @@
+## Welcome to Bootcamp Day 1
+
 ### Data Science Institute Bootcamp Orientation
 * Day 1: Computer basics and GitHub (installation of R/Python help after)
 * Day 2: R and RStudio
@@ -55,6 +57,8 @@
 ### GitHub
 * [Motivating Example](no_vc.png)
 * [Command Line Git](git_commands.png)
+
+## Computer Trouble Shooting Time
 
 ### Helpful Links
 * [UVA Physics Computer Facilites Reference](http://galileo.phys.virginia.edu/compfac/courses/)
