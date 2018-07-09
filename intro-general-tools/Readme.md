@@ -100,3 +100,4 @@
 * [GitHub Homepage](https://github.com/)
 * [Bash Cheat Sheet](https://devhints.io/bash)
 * [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
+* [2017 Git Intro](https://github.com/UVA-DSI/2017-bootcamp-git-intro)
