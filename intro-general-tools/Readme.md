@@ -55,8 +55,6 @@
 * rsync
 * sftp
 
-### Cygwin/Putty
-
 ## Lunch Break
 
 ### GitHub
