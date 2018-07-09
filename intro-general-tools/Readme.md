@@ -93,7 +93,7 @@
 
 ## Computer Trouble Shooting Time
 
-### Helpful Links
+## Helpful Links
 * [UVA Physics Computer Facilites Reference](http://galileo.phys.virginia.edu/compfac/courses/)
 * [Data Science Fundamental References](https://github.com/alonzi/fundamentals)
 * [Git Homepage](https://git-scm.com/)
