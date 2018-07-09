@@ -50,6 +50,7 @@
 * Choosing the right [tool](which_tool.png)
 * Scripting
   * [Countdown Script](countdown.sh)
+  * [Tutorial] (https://ryanstutorials.net/bash-scripting-tutorial/bash-script.php)
   * [Toutorials for Later](http://wiki.bash-hackers.org/scripting/tutoriallist)
   
 
