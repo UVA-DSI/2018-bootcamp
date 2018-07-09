@@ -54,7 +54,7 @@
     * [Countdown Script](countdown.sh)
     * [Functions](my_print.sh)
     * [Countdown with passed argument](advanced_countdown.sh)
-  * Tutorials: [Aggregation](http://wiki.bash-hackers.org/scripting/tutoriallist)[One Example](https://ryanstutorials.net/bash-scripting-tutorial/bash-script.php)
+  * Tutorials: [Aggregation](http://wiki.bash-hackers.org/scripting/tutoriallist) [Popular Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/bash-script.php)
   
 
 ### Secure Shell (SSH): Remote Connection
