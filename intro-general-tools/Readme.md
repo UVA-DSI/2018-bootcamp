@@ -7,7 +7,7 @@
 * Day 4: Text Editiors, Word Processors, and IDEs (plus wrap up) (half day)
 
 ### Introductions
-* Introduce DSI staff in the room
+* My name is Pete
 * Lots of students: [Student Profiles](https://dsi.virginia.edu/people/students)
 
 ### Computing at UVA
