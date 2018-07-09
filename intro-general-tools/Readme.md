@@ -49,9 +49,11 @@
 * [pipes and redirecting errors](redirect_outpu.png)
 * Choosing the right [tool](which_tool.png)
 * Scripting
-  * [Countdown Script](countdown.sh)
-  * [Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/bash-script.php)
-  * [Toutorials for Later](http://wiki.bash-hackers.org/scripting/tutoriallist)
+  * Exercises:
+    * [Hello World!](hello_world.sh)
+    * [Countdown Script](countdown.sh)
+    * 
+  * Tutorials: [Aggregation](http://wiki.bash-hackers.org/scripting/tutoriallist)[One Example](https://ryanstutorials.net/bash-scripting-tutorial/bash-script.php)
   
 
 ### Secure Shell (SSH): Remote Connection
