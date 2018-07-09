@@ -34,7 +34,7 @@
   * [Installation Instructions for Windows and Mac](getting_bash.pdf)
   * https://docs.microsoft.com/en-us/windows/wsl/install-win10
   * Windows Backups:
-    * [git command line](https://gitforwindows.org/)
+    * [git on windows](https://gitforwindows.org/) ([Other OS](https://git-scm.com/downloads))
     * [cygwin](https://www.cygwin.com/)
 
 ### BASH and CLI
@@ -66,15 +66,29 @@
 ## Lunch Break
 
 ### GitHub
-* [Motivating Example](no_vc.png)
-* [Command Line Git](git_commands.png)
-* [GitHub Terms](github_terms.png)
-* Create Accounts - remember this is public and professional
-* Create Repositories
-* Readme.md (editing in web interface)
-* Forking a repo
-* Pull requests
-* Organizations and Capstone Repositories
+* Introduction
+  * [Motivating Example Cartoon](no_vc.png)
+  * [Command Line Git Cartoon](git_commands.png)
+  * [GitHub Terms](github_terms.png)
+* Getting Started
+  * Create Accounts - remember this is public and professional
+  * Create Repositories
+  * Readme.md (editing in web interface)
+  * Creating files (nb: github has special display for certain file extensions)
+  * Editing files and making commits
+* Collaboration
+  * Direct collaboration - adding collaborators
+  * Distributed Collaboration
+    * Forking a repo
+    * Pull requests
+* Local vs Cloud
+  * downloading your code
+  * syncing your repositories [sync to upstream](https://help.github.com/articles/syncing-a-fork/)
+  * Command Line Interface - [cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+* Additional Items
+  * Organizations and Capstone Repositories
+  * [Webpages](https://pages.github.com/)
+  * Branches
 
 
 ## Computer Trouble Shooting Time
