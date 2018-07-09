@@ -31,6 +31,8 @@
   * Nowadays Windows, Mac, and Linux come with both out of the box
   * However each is different. So we'll use a common solution.
 * Bourne Again Shell (BASH): [Installation Instructions for Windows and Mac](getting_bash.pdf)
+ * https://docs.microsoft.com/en-us/windows/wsl/install-win10
+ 
 
 ### BASH and CLI
 * [Basic Commands](basic_commands.png)
