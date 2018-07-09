@@ -1,10 +1,10 @@
 #!/bin/bash
 
-counter=1
-while [ $counter -le 10 ]
+counter=10
+while [ $counter -ne 0 ]
 do
 	echo $counter
-	((counter++))
+	((counter--))
 done
 
 echo All done
