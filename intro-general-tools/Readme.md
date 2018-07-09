@@ -49,6 +49,7 @@
 * [pipes and redirecting errors](redirect_outpu.png)
 * Choosing the right [tool](which_tool.png)
 * Scripting
+  * [Countdown Script](countdown.sh)
   * [Toutorials for Later](http://wiki.bash-hackers.org/scripting/tutoriallist)
   
 
