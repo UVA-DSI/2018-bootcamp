@@ -30,9 +30,12 @@
 * Graphical User Interface (GUI) vs Command Line Interface (CLI)
   * Nowadays Windows, Mac, and Linux come with both out of the box
   * However each is different. So we'll use a common solution.
-* Bourne Again Shell (BASH): [Installation Instructions for Windows and Mac](getting_bash.pdf)
+* Bourne Again Shell (BASH): Supported by Windows sporadically. Native on Mac/Linux
+  * [Installation Instructions for Windows and Mac](getting_bash.pdf)
   * https://docs.microsoft.com/en-us/windows/wsl/install-win10
- 
+  * Windows Backups:
+    * [git command line](https://gitforwindows.org/)
+    * [cygwin](https://www.cygwin.com/)
 
 ### BASH and CLI
 * [Basic Commands](basic_commands.png)
