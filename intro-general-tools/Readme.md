@@ -48,6 +48,9 @@
 * Grep, Sed, and AWK
 * [pipes and redirecting errors](redirect_outpu.png)
 * Choosing the right [tool](which_tool.png)
+* Scripting
+  * [Toutorials for Later](http://wiki.bash-hackers.org/scripting/tutoriallist)
+  
 
 ### Secure Shell (SSH): Remote Connection
 * ssh
