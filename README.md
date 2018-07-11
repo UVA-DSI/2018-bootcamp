@@ -28,4 +28,4 @@ July 12, Thursday: Raf Alvarado, rca2t
   - 9 to 9:30m, Troubleshooting
   - 9:30 am to 11:45am, Class
   - 12 to 1pm, Lunch
-  - Topic: Text Editor, IDE
+  - Topic: Programmer's Text Editors
